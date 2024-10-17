@@ -1,0 +1,11 @@
+A:\programas\olamundo\bin\Debug\olamundo.exe.config
+A:\programas\olamundo\bin\Debug\olamundo.exe
+A:\programas\olamundo\bin\Debug\olamundo.pdb
+A:\programas\olamundo\obj\Debug\olamundo.csproj.AssemblyReference.cache
+A:\programas\olamundo\obj\Debug\olamundo.csproj.SuggestedBindingRedirects.cache
+A:\programas\olamundo\obj\Debug\olamundo.Form1.resources
+A:\programas\olamundo\obj\Debug\olamundo.Properties.Resources.resources
+A:\programas\olamundo\obj\Debug\olamundo.csproj.GenerateResource.cache
+A:\programas\olamundo\obj\Debug\olamundo.csproj.CoreCompileInputs.cache
+A:\programas\olamundo\obj\Debug\olamundo.exe
+A:\programas\olamundo\obj\Debug\olamundo.pdb
